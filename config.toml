@@ -1,4 +1,4 @@
-baseURL = "http://arosca-nl.github.io/home/"
+baseURL = "http://arosca-nl.github.io"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Andrei Rosca"
