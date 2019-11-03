@@ -1,0 +1,26 @@
+baseURL = "http://arosca-nl.github.io/home/"
+publishDir = "docs"
+languageCode = "en-us"
+title = "Andrei Rosca"
+theme = "hallo"
+[Author]
+    name = "Andrei Rosca"
+[params]
+    [params.colors]
+        background = "#181818"
+        foreground = "#dedede"
+        hover = "#646464"
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/arosca-nl"
+    [[params.links]]
+        iconset = "fas"
+        icon = "phone"
+        title = "Phone"
+        url = "tel:+31626847493"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:hi@arosca.nl"
